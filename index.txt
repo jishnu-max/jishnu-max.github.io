@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Jishnu-Max | Mystery Realm</title>
+</head>
+<body>
+  <h1>Welcome to My Website!</h1>
+  <p>This is Jishnu-Max's GitHub Page.</p>
+  <p>Stay tuned for mystery, science, and spiritual wonders 🌌🧠</p>
+</body>
+</html>
